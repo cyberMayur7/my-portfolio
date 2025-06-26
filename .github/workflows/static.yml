@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mayur Girase | Cybersecurity Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <img src="mayur.jpg" alt="Mayur Girase" class="profile-pic" />
+    <h1>Mayur Girase</h1>
+    <p>Cybersecurity Enthusiast | B.Tech Student</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I’m a cybersecurity enthusiast and B.Tech student with hands-on experience in VAPT, Network Security, and Digital Forensics. I completed an internship at Hacktify Cybersecurity LLP and mentored under Chaudhary Pawav Sahlot.</p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>VAPT (SQLi, XSS, Network, Wireless, Social Engineering)</li>
+      <li>Metasploit, DVWA, Wireshark</li>
+      <li>Python Basics for Security</li>
+      <li>Digital Forensics (FTK, Volatility, OpenSTGO)</li>
+      <li>Kali Linux, Burp Suite, Steghide</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>DVWA SQLi Lab:</strong> Practical write-up and exploitation of SQL injection.</li>
+      <li><strong>Wireless VAPT:</strong> Used aircrack-ng for cracking Wi-Fi networks.</li>
+      <li><strong>FTK Forensics:</strong> Analyzed USB data dump using FTK and Volatility.</li>
+    </ul>
+  </section>
+
+  <section class="experience">
+    <h2>Internship</h2>
+    <p>Hacktify Cybersecurity LLP – Feb to Mar 2025</p>
+  </section>
+
+  <section class="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>TryHackMe – Pre-Security, Pentesting</li>
+      <li>Hacktify Badge</li>
+    </ul>
+  </section>
+
+  <section class="resume">
+    <h2>Resume</h2>
+    <a href="https://drive.google.com/file/d/1zKEiT5IX0b-Raf-4cJdetydIGTyx5M6u/view?usp=sharing" target="_blank">Download Resume</a>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>LinkedIn: <a href="https://linkedin.com/in/cybermayur" target="_blank">cybermayur</a></p>
+    <p>GitHub: <a href="https://github.com/cyberMayur7" target="_blank">cyberMayur7</a></p>
+  </section>
+</body>
+</html>
